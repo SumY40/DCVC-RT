@@ -1,0 +1,19 @@
+{
+    "root_path": "/workspace/datasets/",
+    "test_classes": {
+        "UVG": {
+            "test": 1,
+            "base_path": "/workspace/datasets/RL_video/UVG/original_png_bt709/",
+            "src_type": "png",
+            "sequences": {
+                "ReadySteadyGo":       {"width": 1920, "height": 1080, "frames": 96, "intra_period": 32},
+                "Bosphorus":          {"width": 1920, "height": 1080, "frames": 96, "intra_period": 32},
+                "ShakeNDry":        {"width": 1920, "height": 1080, "frames": 96, "intra_period": 32},
+                "HoneyBee":       {"width": 1920, "height": 1080, "frames": 96, "intra_period": 32},
+                "Jockey":     {"width": 1920, "height": 1080, "frames": 96, "intra_period": 32},
+                "YachtRide":     {"width": 1920, "height": 1080, "frames": 96, "intra_period": 32},
+                "Beauty":        {"width": 1920, "height": 1080, "frames": 96, "intra_period": 32}
+            }
+        }
+    }
+}

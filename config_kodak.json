@@ -1,0 +1,36 @@
+{
+    "root_path": "/workspace/datasets/",
+    "test_classes": {
+        "UVG": {
+            "test": 1,
+            "base_path": "/workspace/datasets/Kodak",
+            "src_type": "png",
+            "sequences": {
+                "kodim01.png":       {"width": 768, "height": 512, "frames": 1, "intra_period": 1},
+                "kodim02.png":       {"width": 768, "height": 512, "frames": 1, "intra_period": 1},
+                "kodim03.png":       {"width": 768, "height": 512, "frames": 1, "intra_period": 1},
+                "kodim04.png":       {"width": 512, "height": 768, "frames": 1, "intra_period": 1},
+                "kodim05.png":       {"width": 768, "height": 512, "frames": 1, "intra_period": 1},
+                "kodim06.png":       {"width": 768, "height": 512, "frames": 1, "intra_period": 1},
+                "kodim07.png":       {"width": 768, "height": 512, "frames": 1, "intra_period": 1},
+                "kodim08.png":       {"width": 768, "height": 512, "frames": 1, "intra_period": 1},
+                "kodim09.png":       {"width": 512, "height": 768, "frames": 1, "intra_period": 1},
+                "kodim10.png":       {"width": 512, "height": 768, "frames": 1, "intra_period": 1},
+                "kodim11.png":       {"width": 768, "height": 512, "frames": 1, "intra_period": 1},
+                "kodim12.png":       {"width": 768, "height": 512, "frames": 1, "intra_period": 1},
+                "kodim13.png":       {"width": 768, "height": 512, "frames": 1, "intra_period": 1},
+                "kodim14.png":       {"width": 768, "height": 512, "frames": 1, "intra_period": 1},
+                "kodim15.png":       {"width": 768, "height": 512, "frames": 1, "intra_period": 1},
+                "kodim16.png":       {"width": 768, "height": 512, "frames": 1, "intra_period": 1},
+                "kodim17.png":       {"width": 512, "height": 768, "frames": 1, "intra_period": 1},
+                "kodim18.png":       {"width": 512, "height": 768, "frames": 1, "intra_period": 1},
+                "kodim19.png":       {"width": 512, "height": 768, "frames": 1, "intra_period": 1},
+                "kodim20.png":       {"width": 768, "height": 512, "frames": 1, "intra_period": 1},
+                "kodim21.png":       {"width": 768, "height": 512, "frames": 1, "intra_period": 1},
+                "kodim22.png":       {"width": 768, "height": 512, "frames": 1, "intra_period": 1},
+                "kodim23.png":       {"width": 768, "height": 512, "frames": 1, "intra_period": 1},
+                "kodim24.png":       {"width": 768, "height": 512, "frames": 1, "intra_period": 1}
+            }
+        }
+    }
+}
